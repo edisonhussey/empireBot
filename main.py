@@ -52,7 +52,7 @@ def worker(queue):
                 print('none')
 
         time.sleep(1)
-
+    print('ok')
 
 
 def check():
